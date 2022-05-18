@@ -1,6 +1,14 @@
 # CSE-471
-Introduction to Artificial Intelligence
 
-A repository for a total of 6 Projects dedicated to mastering search and machine learning algorithms
-
-The projects go over single, multi, and logic agents. The goal of each was to solve Berkeley's Pacman simulator
+Handwritten Digit Classifier w/ Neural Network:
+  A neural network based on the MNIST dataset to classify handwritten digits. 
+  Requires the following libraries:
+    - Numpy (https://scipy.org/install/)
+    - Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+    
+Multi-Agent Pacman Solver:
+  A reflex agent designed to solve the classic version of Pacman using search algorithms such as 
+  Minimax, Expectimax, and Alpha-Beta Pruning to find the best (most consistent) methods to beat Pacman. 
+  
+Both projects were built in Python 3. 
+  
